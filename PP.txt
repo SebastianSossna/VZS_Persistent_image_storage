@@ -5,10 +5,11 @@ This Privacy Policy applies to our Discord bot, Virtual Zombie Survival#6079.
 We store the following data:
 - Your Discord user ID.
 - Bot-related data, such as your in-game currency, level, progress, etc.
+- Usage-Data, such as the actions you performed, Guild you used the bot in, aggregated data, etc.
 - Donations are only associated with your discord ID, no personally identifiable information is stored.
 
 ## Why is this data needed/How do we use this data?
-The data collected is essential for the bot’s functionality, such as tracking your in-game progress, managing donations, and enabling specific features. Essentially giving you the ability to play the game.
+The data collected is essential for the bot’s functionality, such as tracking your in-game progress, managing donations, and enabling specific features. Essentially giving you the ability to play the game. As well as for our internal analysis, to know which features users prefer, so we can steadily improve our service.
 
 ## Who all has access to your data?
 The limited data we collect may be displayed publicly under certain circumstances, including but not limited to:
